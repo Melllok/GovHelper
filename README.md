@@ -1,4 +1,3 @@
-<img width="1120" height="758" alt="Снимок экрана 2026-11-17 143311" src="https://github.com/user-attachments/assets/d01d5339-ac9f-4fa0-9930-aa788d3f46da" />
 # Gov Helper v1.0 — By Holms
 
 Помощник государственных организаций для **Rodina RP** на **MoonLoader**.
