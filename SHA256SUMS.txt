@@ -1,0 +1,2 @@
+c1fd49434fbcbded256495019941a142603cabae7c8f4965a3dd5c2852e69812  GovHelper-v1.0-Manual.zip
+3daf91b3f56a4e1216b3505753d05c733abf55c886a9f286aa55fff5a8b21401  GovHelper-v1.0-Setup.exe
